@@ -5,4 +5,3 @@ six>=1.10.0
 test_for_git
 another
 
-modify_test_branch
