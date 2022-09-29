@@ -5,3 +5,5 @@ six>=1.10.0
 test_for_git
 another
 
+test_third
+test from test1
